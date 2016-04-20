@@ -1,1 +1,1 @@
-README file for empty-template-repository
+README file for empty-template-repository.
